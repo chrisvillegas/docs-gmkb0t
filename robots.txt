@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-xvhb9z.5live.events/sitemap.xml
